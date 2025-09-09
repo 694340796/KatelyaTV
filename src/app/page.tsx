@@ -31,7 +31,7 @@ const MainKatelyaLogo = () => {
       <div className='logo-background-glow'></div>
 
       {/* 主 Logo */}
-      <div className='main-katelya-logo'>KatelyaTV</div>
+      <div className='main-katelya-logo'>小生聚合TV</div>
 
       {/* 副标题 */}
       <div className='mt-3 text-center'>
@@ -64,9 +64,9 @@ const BottomKatelyaLogo = () => {
       </div>
 
       <div className='text-center'>
-        <div className='bottom-logo'>KatelyaTV</div>
+        <div className='bottom-logo'>小生聚合TV</div>
         <div className='mt-2 text-sm text-gray-500 dark:text-gray-400 opacity-75'>
-          Powered by KatelyaTV Core
+          Powered by 小生聚合TV Core
         </div>
       </div>
     </div>
