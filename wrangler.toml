@@ -27,16 +27,6 @@ NEXT_PUBLIC_SITE_DESCRIPTION = "高性能影视播放平台"
 NEXTAUTH_URL = "https://katelyatv-5op.pages.dev"
 USERNAME = "katelya"
 AUTH_PASSWORD = "ab1433223cd@"
-IMAGE_PROXY_ENABLED = "true"
-CACHE_TTL = "3600"
-CORS_ORIGIN = "*"
-RATE_LIMIT_MAX = "100"
-RATE_LIMIT_WINDOW = "60000"
-HEALTH_CHECK_ENABLED = "true"
-HEALTH_CHECK_INTERVAL = "30"
-LOG_LEVEL = "info"
-LOG_FORMAT = "json"
-NODE_ENV = "production"
 
 # 预览环境配置
 [env.preview]
