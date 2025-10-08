@@ -22,9 +22,6 @@ database_id = "0bd180b4-10dd-49aa-a7ba-5b39358c5c93"
 # 生产环境变量
 [env.production.vars]
 NEXT_PUBLIC_STORAGE_TYPE = "d1"
-NEXT_PUBLIC_SITE_NAME = "KatelyaTV"
-NEXT_PUBLIC_SITE_DESCRIPTION = "高性能影视播放平台"
-NEXTAUTH_URL = "https://katelyatv-5op.pages.dev"
 USERNAME = "katelya"
 AUTH_PASSWORD = "ab1433223cd@"
 
